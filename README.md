@@ -1,6 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+![github](./screenshot-1.png)
 
 # Kodluyoruz Ilk Repo
 
@@ -31,3 +32,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License 
 
 [MIT](./LICENSE)
+
